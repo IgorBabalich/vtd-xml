@@ -1,0 +1,11 @@
+build
+.gradle
+
+.vagrant
+
+# intellij
+.idea
+
+# eclipse
+.settings
+
